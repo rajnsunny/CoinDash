@@ -1,8 +1,8 @@
 # 🪙 CoinDash
-![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/CoinDash)
-![GitHub issues](https://img.shields.io/github/issues/<your-username>/CoinDash)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/<your-username>/CoinDash)
-![GitHub](https://img.shields.io/github/license/<your-username>/CoinDash)
+![GitHub repo size](https://img.shields.io/github/repo-size/<rajnsunny>/CoinDash)
+![GitHub issues](https://img.shields.io/github/issues/<rajnsunny>/CoinDash)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/<rajnsunny>/CoinDash)
+![GitHub](https://img.shields.io/github/license/<rajnsunny>/CoinDash)
 ![Milestone](https://img.shields.io/badge/milestone-V2-blue)
 
 A simple 2D platformer game built using **C++** and **SFML**.  
